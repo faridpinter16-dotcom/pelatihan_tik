@@ -4,17 +4,17 @@ body {
   color: #0000FF;
 }
 
-.kartu-profil {
+.Kartu-Profil {
   width: 300px;
   margin: 50px auto;
   padding: 20px;
-  background-color: black;
+  background-color: white;
   border-radius: 15px;
   box-shadow: 0 4px 8px rgba(135, 156, 137);
   text-align: center;
 }
 
-.foto-profil img {
+.Kartu-Profil img {
   width: 150px;
   border-radius: 50%;
 }
